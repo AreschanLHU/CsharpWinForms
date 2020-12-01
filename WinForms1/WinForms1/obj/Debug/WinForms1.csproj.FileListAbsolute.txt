@@ -1,0 +1,10 @@
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\bin\Debug\WinForms1.exe.config
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\bin\Debug\WinForms1.exe
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\bin\Debug\WinForms1.pdb
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\obj\Debug\WinForms1.csprojAssemblyReference.cache
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\obj\Debug\WinForms1.Form1.resources
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\obj\Debug\WinForms1.Properties.Resources.resources
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.GenerateResource.cache
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.CoreCompileInputs.cache
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\obj\Debug\WinForms1.exe
+C:\Users\gkhga\source\repos\WinForms1\WinForms1\obj\Debug\WinForms1.pdb
